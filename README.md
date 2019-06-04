@@ -9,3 +9,6 @@ NOTE: This script is only executable in command line and you must have python 3 
       
 USAGE: $ python3 ResultScrapper.py
 
+
+REMARKS: Not my code i just modified it a little bit :)
+
